@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://leetcard.jacoblin.cool/frundak?sheets=https://gist.githubusercontent.com/frundak/eae9bf27f387564a185bb3fd5ce8a9b8/raw/765000d39935f9c99cea6b135862491cbfa055c6/styles.css)
+![](https://leetcard.jacoblin.cool/frundak?sheets=https://gist.githubusercontent.com/frundak/eae9bf27f387564a185bb3fd5ce8a9b8/raw/0a2f0f49d3e7645568857e940fe53f807c94485f/styles.css)
 
