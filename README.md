@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <p align="center">
-  <a href="https://github.com/JacobLinCool#user-activity-overview">
-    <img title="Frundak's Github Streak" alt="Frundak's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=frundak" />
+  <a href="https://github.com/JacobLinCool?tab=repositories">
+    <img title="JacobLinCool's Github Stats" alt="JacobLinCool's Github Stats" src="https://github-readme-stats.vercel.app/api?username=frundak&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats" />
   </a>
 </p>
 
