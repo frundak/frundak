@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://leetcard.jacoblin.cool/frundak?sheets=https://gist.githubusercontent.com/frundak/eae9bf27f387564a185bb3fd5ce8a9b8/raw/0a2f0f49d3e7645568857e940fe53f807c94485f/styles.css)
+<p align="center">
+  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
+    <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/frundak" />
+  </a>
+</p>
 
