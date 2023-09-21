@@ -14,9 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://github.com/JacobLinCool#user-activity-overview">
+    <img title="Frundak's Github Streak" alt="Frundak's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=frundak" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
-    <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/frundak" />
+    <img title="Frundak's LeetCode Stats" alt="Frundak's LeetCode Stats" src="https://leetcard.jacoblin.cool/frundak" />
   </a>
 </p>
 
