@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Leetcode Stats](https://leetcard.jacoblin.cool/frundak)
+![Leetcode Stats](https://leetcard.jacoblin.cool/frundak?border=100&radius=50)
 
